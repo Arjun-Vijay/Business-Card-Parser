@@ -43,10 +43,11 @@ to preform NER(Name Entity Recognition) and email regex expression in accordance
 
 
    <li>You may then run the appropriate command during execution as seen below</li>
+                      
+
         Enter: Self Test
-        Enter the name of your .txt file: selfTest.txt               
-
-
+        Enter the name of your .txt file: selfTest.txt 
+        
         Name: Bill Gates
         Email: Billgates@outlook.com
         Number: 1112223333
