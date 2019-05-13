@@ -17,7 +17,7 @@ to preform NER(Name Entity Recognition) and email regex expression in accordance
   
       java -jar BusinessCardParser.jar 
       
-   <li>Follow the instructions presented with through the user interface. Example input/output below</li>
+   <li>Follow the instructions presented through the user interface. Example input/output below</li>
    
    
       Welcome to the Business Card Parser
@@ -34,8 +34,7 @@ to preform NER(Name Entity Recognition) and email regex expression in accordance
  
  <h1>Execute New Tests</h1> 
  <ol>
-   <li>To execute new tests first add the test file to the root directory of the cloned repository. You can make sure the file exists 
-   listing the directory contents.</li>
+   <li>To execute new tests first add the test file to the root directory of the cloned repository. You can make sure the file exists by listing the directory contents.</li>
 
         Arjuns-MBP:Business-Card-Parser arjunvijay$ ls
         BusinessCardParser.jar	en-ner-person.bin	selfTest.txt		test1.txt		test3.txt
